@@ -1,4 +1,4 @@
 {
-  "src/**/*.{ts,tsx}": ["yarn lint", "yarn prettier:fix"]
+  "src/**/*.{ts,tsx,vue}": ["yarn lint", "yarn prettier:fix"]
 }
 
